@@ -25,7 +25,7 @@ class AboutMe extends Developer {
 - 💡 Passionate about Technology, Development, Learning and Creativity.
 - 🤝 Available to collaborate on innovative and disruptive projects and ideas.
 - ❤️ When I'm not coding, you can find me studying, reading, doing exercise, playing guitar.
-- ☕ I drink coffe when I'm code or not.
+- ☕ I drink coffe when I'm coding or not.
 
 <br>
 
