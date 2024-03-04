@@ -1,6 +1,33 @@
 
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+# Hello, I'm Thiago! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
+# 👩‍💻 Profile
+
+<br>
+
+```js
+import Developer from 'Thi4gobit';
+class AboutMe extends Developer {
+  name     = 'Thiago Bittencourt';
+  area    = 'Back-end';
+  country = 'Brazil';
+  state = 'Rio de Janeiro';
+}
+```
+
+<br>
+
+- 👦🏼 I'm a Back-end Developer.
+- ⚡ Bachelor of Electrical Engineering.
+- 🎓 Graduate Degree in Building Information Modeling.
+- 💻 Graduate Student in Full Stack developer.
+- 📚 Studying to become a Full Stack Developer.
+- 💡 Passionate about Technology, Development, Learning and Creativity.
+- 🤝 Available to collaborate on innovative and disruptive projects and ideas.
+- ❤️ When I'm not coding, you can find me studying, reading, doing exercise, playing guitar.
+- ☕ I drink coffe when I'm code or not.
+
+<br>
 
 
 # Tech Stack
@@ -14,7 +41,7 @@
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
   <img align="center" alt="django" src="https://img.shields.io/badge/django-323330?style=for-the-badge&logo=django&logoColor=#092E20">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB">
 
   
 
