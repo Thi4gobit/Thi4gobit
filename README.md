@@ -31,4 +31,4 @@
  <br/>
  <br>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaconde&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thi4gobit&show_icons=true)
