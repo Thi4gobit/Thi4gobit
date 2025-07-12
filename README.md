@@ -17,14 +17,16 @@ class AboutMe extends Developer {
 
 <br>
 
-- 👦🏼 I'm a Back-end Developer.
+- 👦🏼 I'm Developer.
 - ⚡ Bachelor of Electrical Engineering.
 - 🎓 Graduate Degree in Building Information Modeling.
-- 💻 Graduate Student in Full Stack developer.
+- 💻 Graduate Degree in Full Stack developer.
+
+
 - 📚 Studying to become a Full Stack Developer.
 - 💡 Passionate about Technology, Development, Learning and Creativity.
 - 🤝 Available to collaborate on innovative and disruptive projects and ideas.
-- ❤️ When I'm not coding, you can find me studying, reading, doing exercise, playing guitar.
+- ❤️ When I'm not coding, you can find me studying, reading, doing exercise, playing Snes.
 - ☕ I drink coffe when I'm coding or not.
 
 <br>
@@ -34,6 +36,7 @@ class AboutMe extends Developer {
 
 <br>
 
+![Python](https://img.shields.io/badge/csharp-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
