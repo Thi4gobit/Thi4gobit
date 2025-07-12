@@ -3,16 +3,6 @@
 
 <br>
 
-```js
-import Developer from 'Thi4gobit';
-class AboutMe extends Developer {
-  name     = 'Thiago Bittencourt';
-  area    = 'Back-end';
-  country = 'Brazil';
-  state = 'Rio de Janeiro';
-}
-```
-
 ```csharp
 using Thi4gobit;
 
