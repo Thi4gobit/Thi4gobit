@@ -13,6 +13,18 @@ class AboutMe extends Developer {
 }
 ```
 
+```csharp
+using Thi4gobit;
+
+public class AboutMe : Developer
+{
+    public string Name { get; set; } = "Thiago Bittencourt";
+    public string Area { get; set; } = "Back-end";
+    public string Country { get; set; } = "Brazil";
+    public string State { get; set; } = "Rio de Janeiro";
+}
+```
+
 <br>
 
 - 👦🏼 I'm Developer.
@@ -63,7 +75,7 @@ class AboutMe extends Developer {
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-🛢️ Databases
+# 🛢️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
