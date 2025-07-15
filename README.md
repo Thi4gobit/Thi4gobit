@@ -31,7 +31,7 @@ public class AboutMe : Developer
 
 # ⌨️ Languages
 
-<br>
+
 
 #### 🚀 Advanced / Daily Use
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -46,7 +46,7 @@ public class AboutMe : Developer
 
 # 📚 Libraries & Framework
 
-<br>
+
 
 #### 🚀 Advanced / Daily Use
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -61,7 +61,7 @@ public class AboutMe : Developer
 
 # ⚙️ DevOps & Deploy
 
-<br>
+
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -71,7 +71,7 @@ public class AboutMe : Developer
 
 # 🛢️ Databases
 
-<br>
+
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
