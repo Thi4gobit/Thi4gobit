@@ -27,10 +27,7 @@ public class AboutMe : Developer
 
 <br>
 
-
-# ⌨️ Languages
-
-
+## ⌨️ Languages
 
 ### 🚀 Advanced / Daily Use
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -48,7 +45,7 @@ public class AboutMe : Developer
 
 <br>
 
-# 📚 Libraries & Framework & Tools
+## 📚 Libraries & Framework & Tools
 
 ### 🚀 Advanced / Daily Use
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -64,7 +61,7 @@ public class AboutMe : Developer
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🛠️ Basic / Few times
+### 🛠️ Basic / Once or twice
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -72,14 +69,16 @@ public class AboutMe : Developer
 
 <br>
 
-## 🧱 BIM & Automation Tools
+## 🧱 BIM - Building Information Modeling & Automation Tools
+
+### 🚀 Advanced / Daily Use
 ![Revit API](https://img.shields.io/badge/Revit_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dynamo](https://img.shields.io/badge/Dynamo-FFCE00?style=for-the-badge&logo=autodesk&logoColor=black)
 ![IFC](https://img.shields.io/badge/IFC-00558C?style=for-the-badge&logo=buildingsmart&logoColor=white)
 
 <br>
 
-# 🧭 Arquitetura & Boas Práticas
+## 🧭 Arquitetura & Boas Práticas
 
 <!-- Badges conceituais (cores curadas; não-oficiais) -->
 ![SOLID](https://img.shields.io/badge/SOLID-2E7D32?style=for-the-badge&logoColor=white)
