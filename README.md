@@ -58,11 +58,6 @@ public class AboutMe : Developer
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-    #### 🧱 BIM & Automation Tools
-    ![Revit API](https://img.shields.io/badge/Revit_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-    ![Dynamo](https://img.shields.io/badge/Dynamo-FFCE00?style=for-the-badge&logo=autodesk&logoColor=black)
-    ![IFC](https://img.shields.io/badge/IFC-00558C?style=for-the-badge&logo=buildingsmart&logoColor=white)
-
 ### 🛠️ Intermediate / Familiar With
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -77,6 +72,13 @@ public class AboutMe : Developer
 
 <br>
 
+## 🧱 BIM & Automation Tools
+![Revit API](https://img.shields.io/badge/Revit_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dynamo](https://img.shields.io/badge/Dynamo-FFCE00?style=for-the-badge&logo=autodesk&logoColor=black)
+![IFC](https://img.shields.io/badge/IFC-00558C?style=for-the-badge&logo=buildingsmart&logoColor=white)
+
+<br>
+
 # 🧭 Arquitetura & Boas Práticas
 
 <!-- Badges conceituais (cores curadas; não-oficiais) -->
@@ -85,3 +87,4 @@ public class AboutMe : Developer
 ![DDD](https://img.shields.io/badge/DDD-1565C0?style=for-the-badge&logoColor=white)
 ![CQRS](https://img.shields.io/badge/CQRS-6A1B9A?style=for-the-badge&logoColor=white)
 
+<br>
