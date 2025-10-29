@@ -45,7 +45,7 @@ public class AboutMe : Developer
 
 <br>
 
-## 📚 Libraries & Framework & Tools
+## 📚 Libraries, Framework & Tools
 
 ### 🚀 Advanced / Daily Use
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
